@@ -1,4 +1,6 @@
 test text for readme
 yet even less text
 
-but adding more
+now adding more
+
+and committing again
